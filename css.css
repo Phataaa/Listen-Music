@@ -1,0 +1,13 @@
+
+.form{
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.form >h4{
+    text-align: center;
+}
+.form >form >button{
+
+   margin-left: 200px;
+}
